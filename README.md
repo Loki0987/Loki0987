@@ -10,11 +10,11 @@ I am a Computer Science Engineering **(Data Science)** student aspiring to build
 I have strong interest and growing skills in data analysis and data-driven problem solving.
 
 ## Technical focus:
-. Python & SQL – main focus for data analytics
+. **Python & SQL** – main focus for data analytics
 
-. Java & C – basic programming knowledge
+. **Java & C** – basic programming knowledge
 
-. Machine Learning – foundational concepts
+. **Machine Learning** – foundational concepts
 
 I work with data analysis libraries like Pandas, NumPy, and Matplotlib, and I am familiar with basic data preprocessing and exploratory data analysis (EDA) techniques.
 
@@ -22,10 +22,10 @@ I enjoy exploring datasets, extracting insights, and applying analytical thinkin
 
 ## 🛠️ Skills & Tools
  Languages:
-. Python (intermediate)
-. SQL (intermediate)
-. Java (basic)
-. C (basic)
+. **Python** (intermediate)
+. **SQL** (intermediate)
+. **Java** (basic)
+. **C** (basic)
 
 ## Libraries & Tools:
 . Pandas
@@ -53,7 +53,7 @@ to gain practical experience in Data Analytics and Machine Learning.
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: (www.linkedin.com/in/siripireddylokeshreddy)
+**💼 LinkedIn:** (www.linkedin.com/in/siripireddylokeshreddy)
 
-📧 Email: (siripireddylokesh9@gmail.com)
+**📧 Email:** (siripireddylokesh9@gmail.com)
 
