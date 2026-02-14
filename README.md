@@ -53,7 +53,7 @@ to gain practical experience in Data Analytics and Machine Learning.
 
 ## 📫 Connect With Me
 
-**💼 LinkedIn:** (www.linkedin.com/in/siripireddylokeshreddy)
+**💼 LinkedIn:**(www.linkedin.com/in/siripireddylokeshreddy)
 
-**📧 Email:** (siripireddylokesh9@gmail.com)
+**📧 Email:**(siripireddylokesh9@gmail.com)
 
