@@ -1,4 +1,4 @@
-# Hi, I'm Siripi Reddy Lokesh Reddy
+# Hi, I'm SIRIPI REDDY LOKESH REDDY
 
 🎓 CSE **(Data Science)** Student
 📊 Aspiring Data Analyst | Data Science & ML Beginner
