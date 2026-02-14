@@ -5,7 +5,7 @@
 
 ## About Me
 
-I am a Computer Science Engineering (Data Science) student aspiring to build a career in Data Analytics, Data Science, and Machine Learning.
+I am a Computer Science Engineering **(Data Science)** student aspiring to build a career in Data Analytics, Data Science, and Machine Learning.
 
 I have strong interest and growing skills in data analysis and data-driven problem solving.
 
